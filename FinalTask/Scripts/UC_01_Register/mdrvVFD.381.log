@@ -1,0 +1,66 @@
+Start auto log messages stack - Iteration 77.	[MsgId: MMSG-10545]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff" (specified by argument number 12)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_light_macroman/Roboto-Light-webfont.woff" (specified by argument number 15)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff" (specified by argument number 18)  	[MsgId: MMSG-26577]
+Action.c(61): Warning -27760: Request "https://www.googletagmanager.com/gtag/js?id=G-TBPYED8WSW" failed  	[MsgId: MWAR-27760]
+Action.c(61): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 36.	[MsgId: MMSG-10545]
+Action.c(283): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(288): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(288): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(293): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(293): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(294): web_custom_request("AccountLoginRequest") started  	[MsgId: MMSG-26355]
+Action.c(294): Connection to www.advantageonlineshopping.com:443 closed after being inactive for 65 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
+Action.c(294): Error -27721: Step download timeout (120 seconds) has expired when downloading resource "https://www.advantageonlineshopping.com/accountservice/ws/AccountLoginRequest"  	[MsgId: MERR-27721]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 36.	[MsgId: MMSG-10545]
+Action.c(294): Aborting pending download of URL="https://www.advantageonlineshopping.com/accountservice/ws/AccountLoginRequest" (RelFrameId=1, Internal ID=1004)  	[MsgId: MMSG-27649]
+Action.c(294): Error -35049: No match found for the requested parameter "userId". Check whether the requested regular expression exists in the response data  	[MsgId: MERR-35049]
+Action.c(294): Error -35049: No match found for the requested parameter "authorization". Check whether the requested regular expression exists in the response data  	[MsgId: MERR-35049]
+Action.c(294): Error -26366: "Text=Login Successful" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(294): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 37.	[MsgId: MMSG-10545]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/services.properties" (specified by argument number 10)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff" (specified by argument number 12)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_light_macroman/Roboto-Light-webfont.woff" (specified by argument number 15)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff" (specified by argument number 18)  	[MsgId: MMSG-26577]
+Action.c(61): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 49.	[MsgId: MMSG-10545]
+Action.c(175): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff" (specified by argument number 10)  	[MsgId: MMSG-26577]
+Action.c(175): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_thin_macroman/Roboto-Thin-webfont.woff" (specified by argument number 13)  	[MsgId: MMSG-26577]
+Action.c(175): Warning -26627: HTTP Status-Code=404 (Not Found) for "https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg"  	[MsgId: MWAR-26627]
+Action.c(175): Warning -26627: HTTP Status-Code=404 (Not Found) for "https://www.advantageonlineshopping.com/app/views/"  	[MsgId: MWAR-26627]
+Action.c(175): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 50.	[MsgId: MMSG-10545]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/services.properties" (specified by argument number 10)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff" (specified by argument number 12)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_light_macroman/Roboto-Light-webfont.woff" (specified by argument number 15)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff" (specified by argument number 18)  	[MsgId: MMSG-26577]
+Action.c(61): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 79.	[MsgId: MMSG-10545]
+Action.c(175): Found resource "https://www.advantageonlineshopping.com/app/views/" in HTML "https://www.advantageonlineshopping.com/app/views/home-page.html"  	[MsgId: MMSG-26659]
+Action.c(175): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff" (specified by argument number 10)  	[MsgId: MMSG-26577]
+Action.c(175): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_thin_macroman/Roboto-Thin-webfont.woff" (specified by argument number 13)  	[MsgId: MMSG-26577]
+Action.c(175): Warning -26627: HTTP Status-Code=404 (Not Found) for "https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg"  	[MsgId: MWAR-26627]
+Action.c(175): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

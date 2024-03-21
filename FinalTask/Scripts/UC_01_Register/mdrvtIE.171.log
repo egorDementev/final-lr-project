@@ -1,0 +1,125 @@
+Start auto log messages stack - Iteration 29.	[MsgId: MMSG-10545]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/services.properties" (specified by argument number 10)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff" (specified by argument number 12)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_light_macroman/Roboto-Light-webfont.woff" (specified by argument number 15)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff" (specified by argument number 18)  	[MsgId: MMSG-26577]
+Action.c(61): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 4.	[MsgId: MMSG-10545]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/services.properties" (specified by argument number 10)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff" (specified by argument number 12)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_light_macroman/Roboto-Light-webfont.woff" (specified by argument number 15)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff" (specified by argument number 18)  	[MsgId: MMSG-26577]
+Action.c(61): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 36.	[MsgId: MMSG-10545]
+Action.c(53): web_add_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(55): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(55): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(57): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(57): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(60): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(60): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(61): web_url("www.advantageonlineshopping.com") started  	[MsgId: MMSG-26355]
+Action.c(61): Error -27792: Failed to connect to server "www.advantageonlineshopping.com:443": [10060] Connection timed out  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 36.	[MsgId: MMSG-10545]
+Action.c(61): Warning -26200: At least one of the resources specified by EXTRARES has not been downloaded due to the above error(s)  	[MsgId: MWAR-26200]
+Action.c(61): Error -26366: "Text=Product Added Successfully" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(61): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 65.	[MsgId: MMSG-10545]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/services.properties" (specified by argument number 10)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff" (specified by argument number 12)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_light_macroman/Roboto-Light-webfont.woff" (specified by argument number 15)  	[MsgId: MMSG-26577]
+Action.c(61): Downloading resource "https://www.advantageonlineshopping.com/css/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff" (specified by argument number 18)  	[MsgId: MMSG-26577]
+Action.c(61): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 21.	[MsgId: MMSG-10545]
+Action.c(53): web_add_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(55): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(55): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(57): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(57): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(60): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(60): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(61): web_url("www.advantageonlineshopping.com") started  	[MsgId: MMSG-26355]
+Action.c(61): Error -27721: Step download timeout (120 seconds) has expired when downloading resource "https://www.advantageonlineshopping.com/"  	[MsgId: MERR-27721]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 21.	[MsgId: MMSG-10545]
+Action.c(61): Aborting pending download of URL="https://www.advantageonlineshopping.com/" (RelFrameId=1, Internal ID=542)  	[MsgId: MMSG-27649]
+Action.c(61): Warning -26200: At least one of the resources specified by EXTRARES has not been downloaded due to the above error(s)  	[MsgId: MWAR-26200]
+Action.c(61): Error -26366: "Text=Product Added Successfully" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(61): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 38.	[MsgId: MMSG-10545]
+Action.c(53): web_add_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(55): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(55): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(57): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(57): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(60): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(60): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(61): web_url("www.advantageonlineshopping.com") started  	[MsgId: MMSG-26355]
+Action.c(61): Error -27792: Failed to connect to server "www.advantageonlineshopping.com:443": [10060] Connection timed out  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 38.	[MsgId: MMSG-10545]
+Action.c(61): Warning -26200: At least one of the resources specified by EXTRARES has not been downloaded due to the above error(s)  	[MsgId: MWAR-26200]
+Action.c(61): Error -26366: "Text=Product Added Successfully" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(61): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 67.	[MsgId: MMSG-10545]
+Action.c(334): Notify: Transaction "login" ended with a "Pass" status (Duration: 4,7496 Wasted Time: 0,0003).	[MsgId: MMSG-16871]
+Action.c(337): lr_think_time: 5,00 seconds.	[MsgId: MMSG-15948]
+Action.c(340): Notify: Transaction "choose_category" started.	[MsgId: MMSG-16999]
+Action.c(346): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(346): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(352): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(352): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(353): web_url("products") started  	[MsgId: MMSG-26355]
+Action.c(353): Connection to www.advantageonlineshopping.com:443 closed after being inactive for 60 seconds, exceeding the "HTTP Keep-Alive timeout" Runtime Setting (60 seconds). URL="[None]"  	[MsgId: MMSG-27647]
+Action.c(353): Error -27792: Failed to connect to server "www.advantageonlineshopping.com:443": [10060] Connection timed out  	[MsgId: MERR-27792]
+Action.c(353): Error -35049: No match found for the requested parameter "productId". Check whether the requested regular expression exists in the response data  	[MsgId: MERR-35049]
+Action.c(353): Error -26366: "Text=productId" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(353): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 27.	[MsgId: MMSG-10545]
+Action.c(53): web_add_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(55): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(55): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(57): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(57): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(60): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(60): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(61): web_url("www.advantageonlineshopping.com") started  	[MsgId: MMSG-26355]
+Action.c(61): Error -27792: Failed to connect to server "www.advantageonlineshopping.com:443": [10060] Connection timed out  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 27.	[MsgId: MMSG-10545]
+Action.c(61): Warning -26200: At least one of the resources specified by EXTRARES has not been downloaded due to the above error(s)  	[MsgId: MWAR-26200]
+Action.c(61): Error -26366: "Text=Product Added Successfully" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(61): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
