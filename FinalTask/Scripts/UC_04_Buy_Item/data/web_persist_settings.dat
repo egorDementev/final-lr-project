@@ -1,0 +1,13 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2024/03/14 13:48:46
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2024/03/14 13:49:42
+StartRecordingIsDst_2=0
+[User-Agent]
+User-Agent=Mozilla/5.0
+[Security]
+UsingPersistForAuthentication=1
+UserName_2_1=Name2
+Password_2_1=Password2
+Realm_2_1=www.advantageonlineshopping.com:443
+EventId_2_1=2859

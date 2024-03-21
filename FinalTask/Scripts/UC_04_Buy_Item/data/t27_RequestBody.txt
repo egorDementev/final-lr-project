@@ -1,0 +1,6 @@
+"<?xml version=\"1.0\" encoding=\"UTF-8\"?><soap:Envelope xmlns:soap=\"http://schemas.xmlsoap.o"
+"rg/soap/envelope/\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http:/"
+"/www.w3.org/2001/XMLSchema\"><soap:Body><AddSafePayMethodRequest xmlns=\"com.advantage.online."
+"store.accountservice\"><safePayUsername>NameName</safePayUsername><accountId>930720501</accoun"
+"tId><safePayPassword>Password2</safePayPassword><base64Token>Basic TmFtZTI6UGFzc3dvcmQy</base6"
+"4Token></AddSafePayMethodRequest></soap:Body></soap:Envelope>"

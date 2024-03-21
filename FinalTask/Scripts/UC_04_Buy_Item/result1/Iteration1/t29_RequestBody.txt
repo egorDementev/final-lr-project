@@ -1,0 +1,3 @@
+"{"seaddress":{"addressLine1":"","addressLine2":"","city":"","country":"us","postalCode":"","st"
+"ate":""},"secustomerName":"Egorka21 ","secustomerPhone":"","senumberOfProducts":1,"setransacti"
+"onType":"SHIPPING_COST","sessionId":"18e600cfb64@7E8315871B^i%939132128"}"

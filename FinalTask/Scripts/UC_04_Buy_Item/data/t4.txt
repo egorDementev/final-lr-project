@@ -1,0 +1,1 @@
+{"policy":{"data":{"interval":30,"realtime":{"interval":30,"limit":60,"items":"","retry":30,"max":30},"mid":{"interval":120,"limit":200,"items":"","retry":120,"max":120},"low":{"interval":1800,"retry":1800,"max":1800,"limit":500}},"ver":4},"result":0}

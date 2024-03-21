@@ -1,0 +1,12 @@
+GET https://www.advantageonlineshopping.com/app/tempFiles/popularProducts.json HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://www.advantageonlineshopping.com/
+Cookie: _ga_TBPYED8WSW=GS1.1.1710424231.5.0.1710424231.0.0.0; _ga=GA1.2.1042891913.1710324251; _gid=GA1.2.547533233.1710324287; _ga_56EMNRF2S2=GS1.2.1710424280.5.0.1710424280.60.0.0; userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D; _gat=1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Host: www.advantageonlineshopping.com
+

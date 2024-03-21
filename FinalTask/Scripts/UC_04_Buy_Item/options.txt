@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunner\LRProjects\FinalTask\Scripts\UC_04_Buy_Item
+-ID:\LoadRunner\include
+-ed:\loadrunner\lrprojects\finaltask\scripts\uc_04_buy_item\\logfile.log
+d:\loadrunner\lrprojects\finaltask\scripts\uc_04_buy_item\\combined_UC_04_Buy_Item.c
+d:\loadrunner\lrprojects\finaltask\scripts\uc_04_buy_item\\pre_cci.c

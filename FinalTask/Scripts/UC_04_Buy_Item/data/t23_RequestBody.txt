@@ -1,0 +1,4 @@
+"{\"seaddress\":{\"addressLine1\":\"\",\"addressLine2\":\"\",\"city\":\"\",\"country\":\"us\",\""
+"postalCode\":\"\",\"state\":\"\"},\"secustomerName\":\"Name2 \",\"secustomerPhone\":\"\",\"sen"
+"umberOfProducts\":1,\"setransactionType\":\"SHIPPING_COST\",\"sessionId\":\"08485997FA8BE92EA9"
+"8F334DCD3575C5\"}"
