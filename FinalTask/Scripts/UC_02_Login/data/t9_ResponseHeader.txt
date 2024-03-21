@@ -1,0 +1,15 @@
+HTTP/1.1 200 
+Server: nginx/1.18.0 (Ubuntu)
+Date: Thu, 14 Mar 2024 10:37:39 GMT
+Content-Type: application/json
+Connection: keep-alive
+Expires: 0
+Cache-control: no-store
+Set-Cookie: JSESSIONID=13A8E70752F39917F443F993361987CA; Path=/order; HttpOnly
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+vary: accept-encoding
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+

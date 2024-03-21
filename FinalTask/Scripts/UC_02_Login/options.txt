@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunner\LRProjects\FinalTask\UC_02_Login
+-ID:\LoadRunner\include
+-ed:\loadrunner\lrprojects\finaltask\uc_02_login\\logfile.log
+d:\loadrunner\lrprojects\finaltask\uc_02_login\\combined_UC_02_Login.c
+d:\loadrunner\lrprojects\finaltask\uc_02_login\\pre_cci.c
