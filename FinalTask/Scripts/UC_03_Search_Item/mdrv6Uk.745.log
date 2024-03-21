@@ -1,0 +1,20 @@
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+Action.c(230): web_add_cookie started  	[MsgId: MMSG-26355]
+Action.c(230): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(235): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action.c(235): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action.c(235): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(238): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(238): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(239): web_url("{userIdValue}") started  	[MsgId: MMSG-26355]
+Action.c(239): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+Action.c(239): Aborting pending download of URL="https://www.advantageonlineshopping.com/order/api/v1/carts/516524698" (RelFrameId=1, Internal ID=69)  	[MsgId: MMSG-27649]
+Action.c(239): Error -26366: "Text="userId":516524698" not found for web_reg_find  	[MsgId: MERR-26366]
+Action.c(239): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

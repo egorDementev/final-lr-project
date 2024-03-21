@@ -1,0 +1,53 @@
+Start auto log messages stack - Iteration 6.	[MsgId: MMSG-10545]
+Action.c(392): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(398): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action.c(398): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action.c(398): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(401): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(401): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(402): web_submit_data("{colorCode}") started  	[MsgId: MMSG-26355]
+Action.c(402): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "https://www.advantageonlineshopping.com/order/api/v1/carts/105923581/product/13/color/55CDD5?quantity=1"  	[MsgId: MERR-26612]
+Action.c(402): Error -26366: "Text=exists":true" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 13.	[MsgId: MMSG-10545]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3200" (specified by argument number 25)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/css/images/category_banner_3.png" (specified by argument number 27)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3300" (specified by argument number 29)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3202" (specified by argument number 31)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3201" (specified by argument number 33)  	[MsgId: MMSG-26577]
+Action.c(52): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 14.	[MsgId: MMSG-10545]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3200" (specified by argument number 25)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/css/images/category_banner_3.png" (specified by argument number 27)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3300" (specified by argument number 29)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3202" (specified by argument number 31)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3201" (specified by argument number 33)  	[MsgId: MMSG-26577]
+Action.c(52): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 14.	[MsgId: MMSG-10545]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3200" (specified by argument number 25)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/css/images/category_banner_3.png" (specified by argument number 27)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3300" (specified by argument number 29)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3202" (specified by argument number 31)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3201" (specified by argument number 33)  	[MsgId: MMSG-26577]
+Action.c(52): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 14.	[MsgId: MMSG-10545]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3200" (specified by argument number 25)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/css/images/category_banner_3.png" (specified by argument number 27)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3300" (specified by argument number 29)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3202" (specified by argument number 31)  	[MsgId: MMSG-26577]
+Action.c(52): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3201" (specified by argument number 33)  	[MsgId: MMSG-26577]
+Action.c(52): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

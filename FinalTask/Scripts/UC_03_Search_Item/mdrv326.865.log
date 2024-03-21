@@ -1,0 +1,26 @@
+Start auto log messages stack - Iteration 5.	[MsgId: MMSG-10545]
+Action.c(392): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(398): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action.c(398): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action.c(398): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(401): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(401): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(402): web_submit_data("{colorCode}") started  	[MsgId: MMSG-26355]
+Action.c(402): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "https://www.advantageonlineshopping.com/order/api/v1/carts/472380278/product/13/color/55CDD5?quantity=1"  	[MsgId: MERR-26612]
+Action.c(402): Error -26366: "Text=exists":true" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 11.	[MsgId: MMSG-10545]
+Action.c(392): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(398): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action.c(398): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action.c(398): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(401): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(401): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(402): web_submit_data("{colorCode}") started  	[MsgId: MMSG-26355]
+Action.c(402): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "https://www.advantageonlineshopping.com/order/api/v1/carts/863961559/product/13/color/55CDD5?quantity=1"  	[MsgId: MERR-26612]
+Action.c(402): Error -26366: "Text=exists":true" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

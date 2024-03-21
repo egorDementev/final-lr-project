@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\LoadRunner\LRProjects\FinalTask\UC_03_Search_Item
+-ID:\LoadRunner\include
+-ed:\loadrunner\lrprojects\finaltask\uc_03_search_item\\logfile.log
+d:\loadrunner\lrprojects\finaltask\uc_03_search_item\\combined_UC_03_Search_Item.c
+d:\loadrunner\lrprojects\finaltask\uc_03_search_item\\pre_cci.c
